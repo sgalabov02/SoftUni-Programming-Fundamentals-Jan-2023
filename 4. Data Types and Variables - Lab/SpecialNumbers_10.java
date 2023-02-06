@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class xdddzs {
+public class SpecialNumbers_10 {
 
 	public static void main(String[] args) {
 
