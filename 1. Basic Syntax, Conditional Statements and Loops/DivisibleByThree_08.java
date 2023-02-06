@@ -1,4 +1,4 @@
-public class Main {
+public class DivisibleByThree_08 {
 
 	public static void main(String[] args) {
 		
