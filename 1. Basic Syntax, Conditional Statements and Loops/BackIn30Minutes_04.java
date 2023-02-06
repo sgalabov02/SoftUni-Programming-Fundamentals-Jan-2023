@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class BackIn30Minutes_04 {
 
 	public static void main(String[] args) {
 		
