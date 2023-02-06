@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class PassedOrFailed_03 {
 
 	public static void main(String[] args) {
 		
